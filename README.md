@@ -1,2 +1,2 @@
 # Kdmp1
-One of my practices for bootcamp
+First actual practice for seeing how Git and GitHub work together
